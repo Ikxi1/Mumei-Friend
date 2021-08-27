@@ -1,0 +1,23 @@
+Texture/Material Notes:
+- Make and Emissive Texture for the text, that you can animate between to make it "come to life"
+- Blinking face when it comes to life
+- Make inside of the Texture as separate material and have it green, also with dirt
+- give the model some specular/metalness and add roughness to the textures, so not all reflects the same
+- Might have to redo UDIM workflow and change it to single images, still can export as UDIM, just in blender single images
+
+Modelling Notes:
+- Shape keys to blinking animation and then animate each blink in UV too, try to animate UV by redoing UV mapping 
+IT FUCKING WORKS HAHAHAHAHAHAHA
+
+Lighting Notes:
+- Download Lighting chapter from cgboost
+- Volumetric lighting on Friend
+- Use keylights for the inside (lightning boy studio shader)
+
+Compositing Notes:
+- Download compositing chapter from cgboost
+
+Animation Notes:
+- animate diffuse or power in lights when Friend "comes to life"
+
+:
