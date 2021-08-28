@@ -8,6 +8,8 @@ Texture/Material Notes:
 Modelling Notes:
 - Shape keys to blinking animation and then animate each blink in UV too, try to animate UV by redoing UV mapping 
 IT FUCKING WORKS HAHAHAHAHAHAHA
+- Make sprites with vector, then export vector into blender and boolean out the face with vector instead of moving all the time
+- Fuck the thing above doesn't work with shape keys, try it anyway and see what happens
 
 Lighting Notes:
 - Download Lighting chapter from cgboost
