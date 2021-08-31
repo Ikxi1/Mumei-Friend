@@ -9,6 +9,12 @@ Texture/Material Notes:
 - Might have to redo UDIM workflow and change it to single images, still can export as UDIM, just in blender single images
 	- currently not, but keep this solution in mind for the future
 	- redo all of UV and texturing, because it's fucked - make roughness better in process - also already do bevel
+	- 2x2 udim map
+	- one layer messy fibers 3, balance .16 , contrast .09
+	- one layer 3d perlin noise fractal, position .3 , contrast .17 , scale 3.03
+	- one layer crystal 2, balance .28 , contrast .51 , scale 3 , disorder .39
+	
+	- still some things to improve, colour, crinkles, roughness
 
 Modelling Notes:
 - Shape keys to blinking animation and then animate each blink in UV too, try to animate UV by redoing UV mapping 
@@ -23,9 +29,11 @@ Lighting Notes:
 - Make spot light source not visible in reflection
 
 Compositing Notes:
-- Download compositing chapter from cgboost
+- Download compositing chapter from cgboost - you're fucking stupid, there is no compositing chapter
 
 Animation Notes:
 - animate diffuse or power in lights when Friend "comes to life"
 
-:
+Rendering Notes:
+- Render with compositing and just diffuse colour
+	- Add metadata to diffuse colour
