@@ -21,6 +21,7 @@ Modelling Notes:
 	- IT FUCKING WORKS HAHAHAHAHAHAHA
 - Make sprites with vector, then export vector into blender and boolean out the face with vector instead of moving all the time
 - Fuck the thing above doesn't work with shape keys, try it anyway and see what happens
+- Add more geometry to the model, so it can be deformed later
 
 Lighting Notes:
 - Download Lighting chapter from cgboost - WATCHED
