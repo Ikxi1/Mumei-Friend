@@ -41,3 +41,4 @@ Animation Notes:
 Rendering Notes:
 - Render with compositing and just diffuse colour
 	- Add metadata to diffuse colour
+- Log colour
