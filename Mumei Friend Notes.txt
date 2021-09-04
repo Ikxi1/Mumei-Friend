@@ -15,6 +15,7 @@ Texture/Material Notes:
 	- one layer crystal 2, balance .28 , contrast .51 , scale 3 , disorder .39
 	
 	- still some things to improve, colour, crinkles, roughness
+- Put Roughness on the rune mask export, so that there is still some in the render, metalness not needed
 
 Modelling Notes:
 - Shape keys to blinking animation and then animate each blink in UV too, try to animate UV by redoing UV mapping 
@@ -29,6 +30,7 @@ Lighting Notes:
 - Volumetric lighting on Friend
 - Use keylights for the inside (lightning boy studio shader)
 - Make spot light source not visible in reflection
+- Use forest moody hdri, otherwise goddamn reflections just won't appear kon
 
 Compositing Notes:
 - Download compositing chapter from cgboost - you're fucking stupid, there is no compositing chapter
