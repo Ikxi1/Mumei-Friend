@@ -16,6 +16,8 @@ Texture/Material Notes:
 	
 	- still some things to improve, colour, crinkles, roughness
 - Put Roughness on the rune mask export, so that there is still some in the render, metalness not needed
+- ZIP THE .SPP FILE ON THE LAPTOP AND PUSH IT
+- Do not use Roughness anymore, only use Metalness, it's better than Roughness
 
 Modelling Notes:
 - Shape keys to blinking animation and then animate each blink in UV too, try to animate UV by redoing UV mapping 
