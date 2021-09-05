@@ -26,6 +26,7 @@ Modelling Notes:
 	- Fuck the thing above doesn't work with shape keys, try it anyway and see what happens
 	- It might be possible, if all the eyes have, then same amount of vertices
 - Add more geometry to the model, so it can be deformed later
+	- doesn't work too well
 
 Lighting Notes:
 - Download Lighting chapter from cgboost - WATCHED
