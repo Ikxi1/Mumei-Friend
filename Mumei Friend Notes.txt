@@ -16,7 +16,6 @@ Texture/Material Notes:
 	
 	- still some things to improve, colour, crinkles, roughness
 - Put Roughness on the rune mask export, so that there is still some in the render, metalness not needed
-- ZIP THE .SPP FILE ON THE LAPTOP AND PUSH IT
 - Do not use Roughness anymore, only use Metalness, it's better than Roughness
 
 Modelling Notes:
@@ -27,6 +26,7 @@ Modelling Notes:
 	- It might be possible, if all the eyes have, then same amount of vertices
 - Add more geometry to the model, so it can be deformed later
 	- doesn't work too well
+- Make eyes not holes but just emissive material for better glow/glare and pose it, but copy the model before that
 
 Lighting Notes:
 - Download Lighting chapter from cgboost - WATCHED
@@ -34,6 +34,7 @@ Lighting Notes:
 - Use keylights for the inside (lightning boy studio shader)
 - Make spot light source not visible in reflection
 - Use forest moody hdri, otherwise goddamn reflections just won't appear kon
+- Put small light orbs under the model, maybe particle system for nice animation, slow
 
 Compositing Notes:
 - Download compositing chapter from cgboost - you're fucking stupid, there is no compositing chapter
@@ -44,4 +45,4 @@ Animation Notes:
 Rendering Notes:
 - Render with compositing and just diffuse colour
 	- Add metadata to diffuse colour
-- Log colour
+- Log colour - no
